@@ -3,7 +3,7 @@
 ## Overview
 A routed dual-subnet LAN simulating a small office environment 
 with two departments — Sales and IT. Built in Cisco Packet Tracer 
-using one 2911 router, two 2960 switches, and eight end hosts.
+using one 4331 router, two 2960 switches, and eight end hosts.
 
 **Topology:** 1 Router | 2 Switches | 8 PCs | 2 Subnets
 
