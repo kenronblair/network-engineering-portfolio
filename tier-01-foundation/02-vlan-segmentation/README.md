@@ -1,5 +1,3 @@
----
-
 ## Verification & Testing
 
 ### show vlan brief output confirmed:
