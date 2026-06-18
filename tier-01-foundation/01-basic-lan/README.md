@@ -7,7 +7,7 @@ using one 4331 router, two 2960 switches, and eight end hosts.
 
 **Topology:** 1 Router | 2 Switches | 8 PCs | 2 Subnets
 
-![Network Topology](topology.png)
+![Network Topology](Topology.png)
 
 ---
 
