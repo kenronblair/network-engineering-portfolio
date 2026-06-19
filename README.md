@@ -25,14 +25,14 @@ verification outputs, and documented troubleshooting scenarios.
 |---|---|---|---|
 | 01 | [Basic LAN — Dual Subnet Routed Network](tier-01-foundation/01-basic-lan/) | Subnetting, Router interfaces, Inter-subnet routing | ✅ Complete |
 | 02 | VLAN Segmentation Lab | VLANs, Trunking, 802.1Q, Access ports | ✅ Complete | 
-| 03 | Inter-VLAN Routing Lab | Router-on-a-stick, Subinterfaces, Layer 3 routing | 🔄 In Progress |
+| 03 | Inter-VLAN Routing Lab | Router-on-a-stick, Subinterfaces, Layer 3 routing | ✅ Complete |
 
 ### 🔵 Tier 2 — Dynamic Routing & Redundancy
 > Build networks that route dynamically and survive failures
 
 | # | Project | Topics Covered | Status |
 |---|---|---|---|
-| 04 | OSPF Multi-Router Network | OSPF, Neighbor adjacency, Reconvergence | ⏳ Upcoming |
+| 04 | OSPF Multi-Router Network | OSPF, Neighbor adjacency, Reconvergence | 🔄 In Progress |
 | 05 | STP & Redundant Switching Lab | STP, Root bridge election, Port states | ⏳ Upcoming |
 | 06 | EtherChannel Aggregation Lab | LACP, PAgP, Port-channel | ⏳ Upcoming |
 
