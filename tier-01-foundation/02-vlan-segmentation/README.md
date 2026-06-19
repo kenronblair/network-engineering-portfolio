@@ -26,22 +26,22 @@
 VLANs are separate Layer 2 broadcast domains. Traffic cannot cross 
 from one VLAN to another without a Layer 3 routing decision. No 
 router or Layer 3 switch is configured for inter-VLAN routing in 
-this lab — that is implemented in Project 03. The failed pings are 
-not a misconfiguration — they prove the VLANs are working correctly.
+this lab. That is going to be implemented in Project 03. The failed pings are 
+not a misconfiguration they prove the VLANs are working correctly.
 
 ---
 
 ## What I Learned
 - VLANs logically segment a network at Layer 2 regardless of 
-  physical switch location — a Sales PC on SW1 and a Sales PC on 
+  physical switch location, a Sales PC on SW1 and a Sales PC on 
   SW2 are in the same broadcast domain through trunk links
 - Trunk ports carry traffic for multiple VLANs simultaneously 
-  using 802.1Q encapsulation — access ports carry traffic for 
+  using 802.1Q encapsulation and access ports carry traffic for 
   one VLAN only
-- VLANs must be created on each switch independently — they do 
+- VLANs must be created on each switch independently, they do 
   not automatically propagate without VTP
-- Inter-VLAN communication requires a Layer 3 device — a router 
-  or Layer 3 switch — to make routing decisions between VLANs
+- Inter-VLAN communication requires a Layer 3 device a such as a router 
+  or Layer 3 switch in order to make routing decisions between VLANs
 - The management VLAN should use a completely separate subnet 
   from data VLANs to ensure proper segmentation
 - show vlan brief and show interfaces trunk are the primary 
