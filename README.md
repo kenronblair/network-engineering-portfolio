@@ -24,8 +24,8 @@ verification outputs, and documented troubleshooting scenarios.
 | # | Project | Topics Covered | Status |
 |---|---|---|---|
 | 01 | [Basic LAN — Dual Subnet Routed Network](tier-01-foundation/01-basic-lan/) | Subnetting, Router interfaces, Inter-subnet routing | ✅ Complete |
-| 02 | VLAN Segmentation Lab | VLANs, Trunking, 802.1Q, Access ports | ✅ Complete | 
-| 03 | Inter-VLAN Routing Lab | Router-on-a-stick, Subinterfaces, Layer 3 routing | ✅ Complete |
+| 02 | [VLAN Segmentation Lab](tier-01-foundation/02-vlan-segmentation/) | VLANs, Trunking, 802.1Q, Access ports | ✅ Complete | 
+| 03 | [Inter-VLAN Routing Lab](tier-01-foundation/03-intervlan-routing/) | Router-on-a-stick, Subinterfaces, Layer 3 routing | ✅ Complete |
 
 ### 🔵 Tier 2 — Dynamic Routing & Redundancy
 > Build networks that route dynamically and survive failures
