@@ -32,7 +32,7 @@ verification outputs, and documented troubleshooting scenarios.
 
 | # | Project | Topics Covered | Status |
 |---|---|---|---|
-| 04 | OSPF Multi-Router Network | OSPF, Neighbor adjacency, Reconvergence | ✅ Complete |
+| 04 | [OSPF Multi-Router Network](tier-02-routing-redundancy/04-ospf-multirouter/) | OSPF, Neighbor adjacency, Reconvergence | ✅ Complete |
 | 05 | STP & Redundant Switching Lab | STP, Root bridge election, Port states | 🔄 In Progress |
 | 06 | EtherChannel Aggregation Lab | LACP, PAgP, Port-channel | ⏳ Upcoming |
 
