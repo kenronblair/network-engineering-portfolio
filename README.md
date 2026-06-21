@@ -32,8 +32,8 @@ verification outputs, and documented troubleshooting scenarios.
 
 | # | Project | Topics Covered | Status |
 |---|---|---|---|
-| 04 | OSPF Multi-Router Network | OSPF, Neighbor adjacency, Reconvergence | 🔄 In Progress |
-| 05 | STP & Redundant Switching Lab | STP, Root bridge election, Port states | ⏳ Upcoming |
+| 04 | OSPF Multi-Router Network | OSPF, Neighbor adjacency, Reconvergence | ✅ Complete |
+| 05 | STP & Redundant Switching Lab | STP, Root bridge election, Port states | 🔄 In Progress |
 | 06 | EtherChannel Aggregation Lab | LACP, PAgP, Port-channel | ⏳ Upcoming |
 
 ### 🟡 Tier 3 — Security & Access Control
